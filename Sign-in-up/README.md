@@ -46,7 +46,7 @@ Sign-in-up/
    npm run dev
    ```
 
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5073`.
 
 ## Available Scripts
 
